@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-20T11:43:11Z" name="Default Suite" finished-at="2021-12-20T11:43:43Z" duration-ms="31689">
+    <groups>
+    </groups>
+    <test started-at="2021-12-20T11:43:11Z" name="FilpkartApplication" finished-at="2021-12-20T11:43:43Z" duration-ms="31689">
+      <class name="com.FilpkartApplication.TestCases.TC_Verify_flipkartApplication">
+        <test-method is-config="true" signature="generateExtentReports()[pri:0, instance:com.FilpkartApplication.TestCases.TC_Verify_flipkartApplication@7dc222ae]" started-at="2021-12-20T11:43:11Z" name="generateExtentReports" finished-at="2021-12-20T11:43:11Z" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateExtentReports -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:com.FilpkartApplication.TestCases.TC_Verify_flipkartApplication@7dc222ae]" started-at="2021-12-20T11:43:12Z" name="setupTest" finished-at="2021-12-20T11:43:29Z" duration-ms="17226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="Search_Mobiles(java.lang.String, java.lang.String)[pri:0, instance:com.FilpkartApplication.TestCases.TC_Verify_flipkartApplication@7dc222ae]" started-at="2021-12-20T11:43:29Z" name="Search_Mobiles" data-provider="TestdataProvider" finished-at="2021-12-20T11:43:42Z" duration-ms="12673" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samsung mobiles]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_Mobiles -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.FilpkartApplication.TestCases.TC_Verify_flipkartApplication@7dc222ae]" started-at="2021-12-20T11:43:42Z" name="tearDownTest" finished-at="2021-12-20T11:43:43Z" duration-ms="1139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="clearExtent()[pri:0, instance:com.FilpkartApplication.TestCases.TC_Verify_flipkartApplication@7dc222ae]" started-at="2021-12-20T11:43:43Z" name="clearExtent" finished-at="2021-12-20T11:43:43Z" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearExtent -->
+      </class> <!-- com.FilpkartApplication.TestCases.TC_Verify_flipkartApplication -->
+    </test> <!-- FilpkartApplication -->
+  </suite> <!-- Default Suite -->
+</testng-results>

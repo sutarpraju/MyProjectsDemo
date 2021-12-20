@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="Suite" thread-count="2" parallel="methods">
+<test name="Test">
+    <classes>
+        <class name="com.FilpkartApplication.TestCases.TC_Verify_flipkartApplication"/>
+    </classes>
+
+</test>
+</suite>
